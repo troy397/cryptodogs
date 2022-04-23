@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://etherscan.io/address/0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Crypto Gods",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY":300,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "http://discord.gg/6jYDTNMejU",
+  "SHOW_BACKGROUND": true
+}
